@@ -30,3 +30,16 @@ The objective of this project is to uncover transaction trends, customer behavio
 
 ## Conclusion
 This project provides a comprehensive view of UPI transaction behavior and demonstrates how Tableau can be used to transform raw transaction data into actionable business insights.
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/678efe9c-1a4e-4c5c-9dfd-0aadc353db1d" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a3ed1213-4c28-4dc2-9c2a-5cbac8663ee2" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c052f2a6-5699-4d6a-aa3a-b8fdc5a76ce0" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/af7572f7-b2bc-4b65-9061-0a1ed64de1b1" />
+
+
+
+
